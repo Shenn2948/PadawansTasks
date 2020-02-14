@@ -6,4 +6,3 @@
 >
 > *Do not use LINQ-queries to solve problem!*
 
-[TODO](https://github.com/EPM-RD-NETLAB/Developing-modern-web-applications-with-ASP.NET-and-Microsoft-Azure/blob/master/PadawansToDo.md)

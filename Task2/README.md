@@ -11,5 +11,3 @@ Calculate(2, 3, 5) -> 40
 a + (a+r) + (a+r+r) + (a+r+r+r) + (a+r+r+r+r) 
 2 + (2+3) + (2+3+3) + (2+3+3+3) + (2+3+3+3+3) = 40
 ```
-
-[TODO](https://github.com/EPM-RD-NETLAB/Developing-modern-web-applications-with-ASP.NET-and-Microsoft-Azure/blob/master/PadawansToDo.md)

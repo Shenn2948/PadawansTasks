@@ -6,5 +6,3 @@
 >  - for variable string name = "Kathy" => name.IsNull() -> false    
 >  - for variable string name = null => name.IsNull() -> true    
 >  - for the variable int? i = null => i.IsNull() -> true, etc.    
-
-[TODO](https://github.com/EPM-RD-NETLAB/Developing-modern-web-applications-with-ASP.NET-and-Microsoft-Azure/blob/master/PadawansToDo.md)
