@@ -18,4 +18,3 @@
 > 	 - The second method should change employee surname with new value, which must be passed to the method;
 > 	 - The third method must return employee info in the string format: "Surname: {Employee.surname}, Age: {Employee.age}"
 
-[TODO](https://github.com/EPM-RD-NETLAB/Developing-modern-web-applications-with-ASP.NET-and-Microsoft-Azure/blob/master/PadawansToDo.md)
